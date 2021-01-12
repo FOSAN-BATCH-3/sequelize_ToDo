@@ -80,7 +80,7 @@ Saatnya User melakukan kegiatan maka akan terjadi perubahan, gunakan  **authenti
 
 - POST /todo , POST /todo/edit/:id , DELETE /todo/delete/:id
 
-  Buatlah route yang digunakan untuk menyimpan data - data sesuai attributes todo. Setiap user hanya dapat menambahkan/edit dan delete kegiatan untuk dirinya (tidak dapat menambahkan kegiatan untuk ID user lain)
+  Buatlah route yang digunakan untuk menyimpan data - data sesuai attributes todo. Setiap user hanya dapat menambahkan,edit dan delete kegiatan untuk dirinya (tidak dapat menambahkan kegiatan untuk ID user lain)
 
 
 
